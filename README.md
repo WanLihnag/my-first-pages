@@ -7,6 +7,6 @@ I am Lihang
 ## skills
 
 can do:
-Python
-homework
-games
++Python
++homework
++games
